@@ -1,0 +1,70 @@
+[{
+  "id": "00001",
+  "factoryname": "上海汽车制造二厂",
+  "abbreviation": "上汽二厂",
+  "country": "中国",
+  "province": "上海",
+  "city": "上海",
+  "region": "金山",
+  "address": "详细地址详细地址",
+  "company": "上海汽车集团股份有限公司",
+  "longitude": "121.214929",
+  "latitude": "31.393143",
+  "remark": "描述信息......"
+},{
+  "id": "00002",
+  "factoryname": "上海汽车制造一厂",
+  "abbreviation": "上汽一厂",
+  "country": "中国",
+  "province": "上海",
+  "city": "上海",
+  "region": "嘉定",
+  "address": "详细地址详细地址",
+  "company": "上海汽车集团股份有限公司",
+  "longitude": "121.214929",
+  "latitude": "31.393143",
+  "remark": "描述信息......"
+
+},{
+  "id": "00003",
+  "factoryname": "上海汽车制造三厂",
+  "abbreviation": "上汽三厂",
+  "country": "中国",
+  "province": "上海",
+  "city": "上海",
+  "region": "嘉定",
+  "address": "详细地址详细地址",
+  "company": "上海汽车集团股份有限公司",
+  "longitude": "121.214929",
+  "latitude": "31.393143",
+  "remark": "描述信息......"
+
+},{
+  "id": "00004",
+  "factoryname": "上海汽车制造四厂",
+  "abbreviation": "上汽四厂",
+  "country": "中国",
+  "province": "上海",
+  "city": "上海",
+  "region": "嘉定",
+  "address": "详细地址详细地址",
+  "company": "上海汽车集团股份有限公司",
+  "longitude": "121.214929",
+  "latitude": "31.393143",
+  "remark": "描述信息......"
+
+},{
+  "id": "00005",
+  "factoryname": "上海汽车制造五厂",
+  "abbreviation": "上汽五厂",
+  "country": "中国",
+  "province": "上海",
+  "city": "上海",
+  "region": "嘉定",
+  "address": "详细地址详细地址",
+  "company": "上海汽车集团股份有限公司",
+  "longitude": "121.214929",
+  "latitude": "31.393143",
+  "remark": "描述信息......"
+
+}]

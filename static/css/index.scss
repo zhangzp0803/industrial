@@ -1,0 +1,224 @@
+.back {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  left: 0px;
+  top: 0px;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 0px;
+
+  a{
+    font-size: 14px;
+  }
+  .top1{
+    width: 100%;
+    height: 380px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    left: 0px;
+    top: 0px;
+    .left{
+      width: 70%;
+      height: 380px;
+      float: left;
+    }
+    .right{
+      width: 30%;
+      height: 380px;
+      float: left;
+    }
+
+  }
+
+  .top2{
+    width: 100%;
+    height: 210px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    left: 0px;
+    top: 0px;
+    section{
+      width: 25%;
+      height: 100%;
+      float: left;
+    }
+  }
+
+  .top3{
+    width: 100%;
+    height: 310px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    left: 0px;
+    top: 0px;
+    margin-top: 30px;
+    section{
+      width: 50%;
+      height: 100%;
+      float: left;
+      >div{
+        height: 50%;
+      }
+    }
+    section:nth-child(2){
+      >div{
+        height: 100%;
+      }
+    }
+  }
+
+  .top4{
+    width: 100%;
+    height: 380px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    left: 0px;
+    top: 0px;
+    margin-top: 30px;
+    >div{
+      width: 50%;
+      height: 380px;
+      float: left;
+    }
+  }
+  .chart_title4{
+    position: relative;
+    top: 25px;
+    z-index: 10;
+
+  }
+  .chart_title5{
+    position: relative;
+    top: 25px;
+    left: 30px;
+    z-index: 10;
+  }
+  .chart_title6{
+    position: relative;
+    top: 25px;
+    left: 30px;
+    z-index: 10;
+  }
+  .chart_title7{
+    position: relative;
+    top: 25px;
+    left: 30px;
+    z-index: 10;
+  }
+
+  .font{
+    font-weight: bold;
+  }
+
+}
+
+@media screen and (max-width: 775px){
+  .back{
+    .top1{
+      width: 100%;
+      height: 380px;
+      background-repeat: no-repeat;
+      box-sizing: border-box;
+      left: 0px;
+      top: 0px;
+      .left{
+        width: 100%;
+        height: 380px;
+        float: none;
+      }
+      .right{
+        width: 100%;
+        height: 380px;
+        float: none;
+      }
+    }
+    .top2{
+      width: 100%;
+      height: 210px;
+      background-repeat: no-repeat;
+      box-sizing: border-box;
+      left: 0px;
+      top: 0px;
+      margin-top: 320px;
+      section{
+        width: 50%;
+        height: 100%;
+        float: none;
+      }
+      .top2_left{
+        float: right;
+        .chart_title4{
+          position: relative;
+          top: 25px;
+          z-index: 10;
+        }
+        .chart_title5{
+          position: relative;
+          top: 25px;
+          left: 0px;
+          z-index: 10;
+        }
+        .chart_title6{
+          position: relative;
+          top: 25px;
+          left: 0px;
+          z-index: 10;
+        }
+        .chart_title7{
+          position: relative;
+          top: 25px;
+          left: 20px;
+          z-index: 10;
+        }
+      }
+    }
+    .top3{
+      width: 100%;
+      height: 310px;
+      background-repeat: no-repeat;
+      box-sizing: border-box;
+      left: 0px;
+      top: 0px;
+      margin-top: 250px;
+      section{
+        width: 100%;
+        height: 100%;
+        float: none;
+        >div{
+          height: 50%;
+        }
+      }
+      section:nth-child(2){
+        >div{
+          height: 100%;
+        }
+      }
+    }
+    .top4{
+      width: 100%;
+      height: 380px;
+      background-repeat: no-repeat;
+      box-sizing: border-box;
+      left: 0px;
+      top: 0px;
+      margin-top: 350px;
+      >div{
+        width: 100%;
+        height: 380px;
+        float: none;
+      }
+    }
+    .chart_title1{
+      position: relative;
+      top: 35px;
+    }
+    .chart_title3{
+      position: relative;
+      top: 25px;
+    }
+  }
+}

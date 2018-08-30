@@ -1,0 +1,73 @@
+[{
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "实时数据",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "EMS数据",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "b",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "tendata",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "daydata",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "statedata",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "errordata",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}, {
+  "id": "00001",
+  "name": "去重转储作业",
+  "type": "powcurvedata",
+  "status": "完成",
+  "laststatus": "异常中止",
+  "startTime": "2018-04-11 15:19:07",
+  "duration": "3243",
+  "link": "http://www.baidu.com?"
+}]

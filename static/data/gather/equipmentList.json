@@ -1,0 +1,47 @@
+[
+  {
+    "id":"000001",
+    "name":"001号电机",
+    "eqtype":"电机",
+    "station": "001号位",
+    "model": "V02.32",
+    "workshopName": "一车间",
+    "plantName": "上海汽车制造二厂"
+  },
+  {
+    "id":"000002",
+    "name":"002号电机",
+    "eqtype":"电机",
+    "station": "002号位",
+    "model": "V02.32",
+    "workshopName": "一车间",
+    "plantName": "上海汽车制造二厂"
+  },
+  {
+    "id":"000003",
+    "name":"003号电机",
+    "eqtype":"电机",
+    "station": "003号位",
+    "model": "V02.32",
+    "workshopName": "一车间",
+    "plantName": "上海汽车制造二厂"
+  },
+  {
+    "id":"100001",
+    "name":"001号泵",
+    "eqtype":"泵",
+    "station": "003号位",
+    "model": "VH832.21",
+    "workshopName": "一车间",
+    "plantName": "上海汽车制造二厂"
+  },
+  {
+    "id":"100002",
+    "name":"002号泵",
+    "eqtype":"泵",
+    "station": "002号位",
+    "model": "VH832.21",
+    "workshopName": "一车间",
+    "plantName": "上海汽车制造二厂"
+  }
+]

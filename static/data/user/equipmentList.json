@@ -1,0 +1,56 @@
+[{
+  "type": "电机",
+  "id": "00001",
+  "name": "001号电机",
+  "model": "V02.32",
+  "station": "001号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "30000天",
+  "workshopName": "一车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......"
+},{
+  "type": "电机",
+  "id": "00002",
+  "name": "002号电机",
+  "model": "V02.32",
+  "station": "002号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "30000天",
+  "workshopName": "一车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......"
+},{
+  "type": "电机",
+  "id": "00003",
+  "name": "003号电机",
+  "model": "V02.32",
+  "station": "003号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "30000天",
+  "workshopName": "一车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......"
+},{
+  "type": "泵",
+  "id": "00004",
+  "name": "004号泵",
+  "model": "V21GCD.32",
+  "station": "004号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "5000天",
+  "workshopName": "二车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......"
+},{
+  "type": "泵",
+  "id": "00006",
+  "name": "006号泵",
+  "model": "V21GCD.32",
+  "station": "006号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "5000天",
+  "workshopName": "二车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......"
+}]

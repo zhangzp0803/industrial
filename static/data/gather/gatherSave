@@ -1,0 +1,16 @@
+{
+  "gatherID": "G0003",
+  "gatherName": "003号电机第2次采集",
+  "gatherTime": "2018-04-26 13:58:12",
+  "eqtype": "电机",
+  "id": "00003",
+  "name": "003号电机",
+  "model": "V02.32",
+  "station": "003号位",
+  "startTime": "2018-04-27 10:57:15",
+  "lifeTime": "30000天",
+  "workshopName": "一车间",
+  "plantName": "上海汽车制造二厂",
+  "remark": "描述信息......",
+  "state": "view"
+}

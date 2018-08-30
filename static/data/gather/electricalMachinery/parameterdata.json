@@ -1,0 +1,31 @@
+[{
+  "id": "pd0000001",
+  "type": "AC感应电机",
+  "frequency": "85.2",
+  "rev": "2830",
+  "voltage": "380",
+  "electricity": "3.4",
+  "power": "1.5",
+  "time": "2018-04-27 16:35:05",
+  "edit": false
+}, {
+  "id": "pd0000002",
+  "type": "AC感应电机",
+  "frequency": "85.2",
+  "rev": "2830",
+  "voltage": "380",
+  "electricity": "3.4",
+  "power": "1.5",
+  "time": "2018-04-27 16:35:04",
+  "edit": false
+}, {
+  "id": "pd0000003",
+  "type": "AC感应电机",
+  "frequency": "85.2",
+  "rev": "2830",
+  "voltage": "380",
+  "electricity": "3.4",
+  "power": "1.5",
+  "time": "2018-04-27 16:35:03",
+  "edit": false
+}]

@@ -1,0 +1,18 @@
+{
+  "title": "daydata",
+  "data": [{
+    "index": "转储作业数量",
+    "today": {
+      "complete": 11,
+      "running": 1
+    },
+    "cumulate": {
+      "complete": 234,
+      "running": 1
+    }
+  }, {
+    "index": "实时转储数据条数",
+    "today": 43129434,
+    "cumulate": 62143129434
+  }]
+}
